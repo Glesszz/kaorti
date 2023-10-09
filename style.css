@@ -1,0 +1,10 @@
+header {
+    position: fixed;
+    background-color: violet;
+    width: 100%;
+    size: 100px;
+}
+
+main {
+    padding-top: 10px;
+}
